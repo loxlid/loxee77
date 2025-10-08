@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Hello I'm Loxee</h2>
+<h1 align="left">Hello I'm Loxee</h1>
 
 ###
 
